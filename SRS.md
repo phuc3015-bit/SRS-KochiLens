@@ -42,7 +42,7 @@ Hệ thống PIM hỗ trợ:
 ---
 
 ## 3.2. Activity Diagram
-![ Diagram](ActionPIM.drawio.png)
+![ Diagram](actionPIM.drawio.png)
 
 Luồng đặt hàng cơ bản:
 
