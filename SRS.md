@@ -37,12 +37,12 @@ Hệ thống PIM hỗ trợ:
 
 ## 3.1. Use Case Diagram
 
-![Use Case Diagram](images/admin.png)
+![Use Case Diagram](admin.png)
 
 ---
 
 ## 3.2. Activity Diagram
-![ Diagram](images/ActionPIM.png)
+![ Diagram](ActionPIM.png)
 
 Luồng đặt hàng cơ bản:
 
